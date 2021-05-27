@@ -17,3 +17,6 @@
 //Caso você tente uma operação que não retorne um nú_
 //mero ele retorna um NaN(Not a Number).
 //console.log(NaN);
+
+//Boolean é composto por dois valores: True or False
+//Muito utilizado para testes de condição.
