@@ -8,3 +8,7 @@ console.log("Hello world");
 //rreta.
 
 //Tipos de dados em JS.
+
+//String é um conjunto de caracteres: "abc"
+//É possivel utilizar aspas simples(''),
+//duplas(""), ou crases(``).
