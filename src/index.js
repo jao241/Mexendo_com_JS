@@ -20,3 +20,7 @@
 
 //Boolean é composto por dois valores: True or False
 //Muito utilizado para testes de condição.
+
+//Null e Undefined são dois tipos difentes de dados:
+//Null: indica uma variavel vazia, sem valor nela.
+//Undefined: indica uma resposta indefinida.
