@@ -2,7 +2,7 @@
 // ou /*  */
 
 //Exibindo mensagem no console.
-console.log("Hello world");
+//console.log("Hello world");
 
 //É importante usar a sintexe de forma co_
 //rreta.
@@ -16,4 +16,4 @@ console.log("Hello world");
 //Number são valores numéricos: (1/ 1.5/ -4 ...)
 //Caso você tente uma operação que não retorne um nú_
 //mero ele retorna um NaN(Not a Number).
-console.log(NaN);
+//console.log(NaN);
