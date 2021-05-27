@@ -6,3 +6,5 @@ console.log("Hello world");
 
 //É importante usar a sintexe de forma co_
 //rreta.
+
+//Tipos de dados em JS.
