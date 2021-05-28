@@ -9,6 +9,9 @@
 
 //Tipos de dados em JS.
 
+//Os dados podem ser divididos em dois grandes tipos: primitivos(
+// Number, String, Boolean, ...) e estruturais( object e functions)
+
 //String é um conjunto de caracteres: "abc"
 //É possivel utilizar aspas simples(''),
 //duplas(""), ou crases(``).
