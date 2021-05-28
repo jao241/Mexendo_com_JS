@@ -38,3 +38,13 @@ console.log({
   }
 });
 */
+
+//Array é um tipo de lista que armazena dados.
+//Sua sintaxe é: ['','', ...]
+/*
+console.log(["joao", "mateus", "douglas"])
+
+console.log(["joao",
+             "mateus",
+             "douglas"])
+*/
