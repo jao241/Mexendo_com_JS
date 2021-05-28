@@ -24,3 +24,17 @@
 //Null e Undefined são dois tipos difentes de dados:
 //Null: indica uma variavel vazia, sem valor nela.
 //Undefined: indica uma resposta indefinida.
+
+//Objetos são representações de entidades do mundo real.
+//objetos podem ser compostos de atributos e métodos.
+//sua sintaxe é: {propriedade: "valor"}
+
+/*
+console.log({
+  name: "Mayk",
+  idade: 36,
+  andar: function(){
+    console.log("andar");
+  }
+});
+*/
