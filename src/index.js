@@ -151,3 +151,16 @@ let cpf...
 Exemplo(muitas declarações por vez):
 let nome, idade, cpf...
 */
+
+/* 
+É possível nesclar textos com variáveis
+Exemplo(forma padrão):
+let nome...
+let idade...
+console.log(nome + "tem " + idade + " anos.")
+
+ou 
+
+Exemplo(com template literals):
+console.log(${nome}` tem ` ${idade} ` anos.`)
+*/
