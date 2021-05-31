@@ -164,6 +164,7 @@ ou
 Exemplo(com template literals):
 console.log(${nome}` tem ` ${idade} ` anos.`)
 */
+
 /*
 criação de um objeto em JS.
 const person={
