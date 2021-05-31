@@ -120,5 +120,18 @@ var x = 0;
   console.log(x);
 }
 
+Variáveis em JS podem ser nomeadas da seguinte forma:
+-Iniciar com caracteres especiais: $ _
+-Iniciar com letras
+-Utilizar acentuação
+-Letras maíusculas e minúsculas são diferentes
 
+Fora dos parametros citados acima, o restante não pode
+ser utilizado
+
+O ideal é:
+-Criar nomes que façam sentido e explica a variável 
+-Usar camelCase, exemplo: nomeCompleto
+-Usar snake_case, exemplo: nome_completo
+-ESCREVER EM INGLÊS 
 */
