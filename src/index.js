@@ -135,3 +135,19 @@ O ideal é:
 -Usar snake_case, exemplo: nome_completo
 -ESCREVER EM INGLÊS 
 */
+
+/*
+Uma variável é composta por declaration(declaração) +
+assignment(atribuição).
+
+é possivel definir cada variável por tipo ou agrupar
+um conjunto de variáveis em um tipo.
+
+Exemplo(uma declaração por vez):
+let nome...
+let idade...
+let cpf...
+
+Exemplo(muitas declarações por vez):
+let nome, idade, cpf...
+*/
