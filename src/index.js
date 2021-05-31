@@ -94,4 +94,26 @@ int nome = "...";
 
 Tipo fracamente tipado:
 nome = "..."; ou let nome = "...";
+
+Escopo de uma variável
+
+Uma variável pode ser local ou global, variáveis do
+tipo let são locais e as do tipo var são globais.
+Em JS você tem os blocos de código, que possibilitam
+a isolação de trechos de códigos no script.
+
+Abaixo tem dois blocos de código que começa com {
+e termina com }.
+
+Variável local
+{
+  let x = 0;
+  console.log(x);
+}
+
+Variável global
+var x = 0;
+{
+  console.log(x);
+}
 */
