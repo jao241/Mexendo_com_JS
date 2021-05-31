@@ -164,3 +164,15 @@ ou
 Exemplo(com template literals):
 console.log(${nome}` tem ` ${idade} ` anos.`)
 */
+/*
+criação de um objeto em JS.
+const person={
+  name: 'joao',
+  age: 19,
+  weight: 82.5,
+  isAdmin: true
+}
+
+console.log(person.age)
+
+*/
