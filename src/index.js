@@ -62,3 +62,26 @@ console.log(["joao",
              "mateus",
              "douglas"])
 */
+
+/*
+Variáveis
+As variáveis são identificadores de valores que o
+programa possui ou pode possuir. Variáveis podem ser
+declaradas com as palavras reservadas: var, let 
+ou const
+
+var nome = "João";
+nome = "Marcos";
+console.log(nome);
+
+let nome = "João";
+nome = "Marcos";
+console.log(nome);
+
+Não é possível modificar valor de uma variável const
+uma segunda vez.
+
+const nome = "João";
+nome = "Carol";
+console.log(nome);
+*/
