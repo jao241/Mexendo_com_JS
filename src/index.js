@@ -98,7 +98,10 @@ nome = "..."; ou let nome = "...";
 Escopo de uma variável
 
 Uma variável pode ser local ou global, variáveis do
-tipo let são locais e as do tipo var são globais.
+tipo let e const são locais e as do tipo var são
+globais, no var é utilizado o conceito de hoisting,
+eleva a var como undefined no topo do script, indepen
+dente do local em que se encontre.
 Em JS você tem os blocos de código, que possibilitam
 a isolação de trechos de códigos no script.
 
@@ -116,4 +119,6 @@ var x = 0;
 {
   console.log(x);
 }
+
+
 */
