@@ -84,4 +84,14 @@ uma segunda vez.
 const nome = "João";
 nome = "Carol";
 console.log(nome);
+
+Variáveis em JS são fracamente tipadas, ou seja,
+não precisa ser especificado o tipo de uma variável
+para utiliza-la.
+
+Tipo fortemente tipado:
+int nome = "...";
+
+Tipo fracamente tipado:
+nome = "..."; ou let nome = "...";
 */
