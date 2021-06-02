@@ -180,6 +180,9 @@ console.log(person.age)
 
 /* 
 Criando um array em JS.
+As boas práticas sugerem que se utilize
+dados para dados primitivos ou para dados 
+estruturais.
 
 const animals = [
   "Lion",
