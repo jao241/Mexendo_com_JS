@@ -177,3 +177,18 @@ const person={
 console.log(person.age)
 
 */
+
+/* 
+Criando um array em JS.
+
+const animals = [
+  "Lion",
+  "Monkey",
+  {
+    name: "Cat",
+    age: 3
+  }
+];
+console.log(animals[0]);
+console.log(animals[2].age);
+*/
